@@ -171,8 +171,8 @@ Era também um requisito um sistema de cadastramento de dados para usuários que
 Neste projeto, contribui diretamente para funcionalidades ligadas à modelagem, fluxo de dados e regras de compatibilidade:
 
 - **Modelagem do Banco:** Participei da modelagem do sistema, sendo responsável por implementar algumas das tabelas necessárias ao funcionamento do projeto usando **MySQL**.
-- **Compatibilidade por Estado e Cidade:** Desenvolvi a parte da lógica de compatibilidade baseada em localização, fazendo tanto o back-end das regras quanto a integração com o formulário de informações no front-end nos componetes em **React**.
-- **Implementação de Métricas no Dashboard:** Atuei na criação tanto página quanto na implementação de dados do dashboar de patrocinadores, sendo responsável pela lógica da criação das métricas e pela implementação dos dados no frontend.
+- **Compatibilidade por Estado e Cidade:** Desenvolvi a parte da lógica de compatibilidade baseada em localização, fazendo tanto o back-end das regras quanto a integração com o formulário de informações no front-end, nos componentes em **React**.
+- **Implementação de Métricas no Dashboard:** Atuei tanto na construção da página quanto na implementação dos dados no dashboard de patrocinadores, sendo responsável pela lógica da criação das métricas e pela implementação dos dados no front-end.
 
 
 #### Tecnologias Utilizadas
