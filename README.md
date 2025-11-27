@@ -25,10 +25,10 @@ Atualmente, continuo aprimorando minhas habilidades através da faculdade, proje
 ## 📧 Contatos
 
 <p>
-  <a href="https://github.com/Matheus-Roberto-Castro"> <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white&color=#2C3E50"></img></a>
-  <a href="https://www.instagram.com/matheus.r.castro/"> <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white&color=#2C3E50"></img></a>
-  <a href="mailto:matheusrcastros@gmail.com"> <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white&color=#2C3E50"></img></a>
-  <a href="https://www.linkedin.com/in/matheus-r-castro-70091a32b"> <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white&color=#2C3E50"></img></a>
+  <a href="https://github.com/Matheus-Roberto-Castro"> <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white&color=2C3E50"></img></a>
+  <a href="https://www.instagram.com/matheus.r.castro/"> <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white&color=2C3E50"></img></a>
+  <a href="mailto:matheusrcastros@gmail.com"> <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white&color=2C3E50"></img></a>
+  <a href="https://www.linkedin.com/in/matheus-r-castro-70091a32b"> <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white&color=2C3E50"></img></a>
 </p>
 
 <br>
