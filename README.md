@@ -1,6 +1,6 @@
 # Portfólio - Matheus Roberto de Castro
 
-<img align="right" src="./assets/m.jpg" alt="" width="250"/>
+<img align="right" src="./assets/m.jpeg" alt="" width="250"/>
 
 Estudante do 3º Semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec São José dos Campos - Prof. Jessen Vidal**. <br>
 
