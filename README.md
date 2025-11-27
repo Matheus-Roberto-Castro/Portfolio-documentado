@@ -66,8 +66,6 @@ Atualmente, continuo aprimorando minhas habilidades através da faculdade, proje
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="cassandra logo" />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="neo4j logo" />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
