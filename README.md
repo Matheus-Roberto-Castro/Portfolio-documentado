@@ -242,6 +242,8 @@ Durante este projeto, atuei como parte do **Dev Team**, desenvolvendo funcionali
 - **Anexos em Tarefas:** Implementei a funcionalidade de upload e gerenciamento de arquivos anexados às tarefas. Atuei tanto na lógica de armazenamento e processamento no backend quanto na construção da interface em React para envio e visualização dos anexos.
 - **Manual do Usuário:** Fui responsável pela implementação completa da página do Manual do Usuário, desenvolvendo todo o front-end seguindo o protótipo e garantindo navegação clara, responsiva e alinhada ao design definido.
 
+Esse semestre deixou claro alguns pontos que posso aprimorar para melhorar meu desempenho nos próximos projetos. Preciso evoluir na organização do fluxo de trabalho, especialmente ao lidar com mudanças frequentes de requisitos técnicos. Também identifiquei a necessidade de reforçar minha comunicação dentro do time, garantindo alinhamento mais rápido e reduzindo retrabalhos. Além disso, quero aprimorar minha capacidade de adaptação, tornando minhas entregas mais eficientes mesmo em cenários de refatoração contínua.
+
 
 #### Tecnologias Utilizadas
 
